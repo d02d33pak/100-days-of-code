@@ -10,7 +10,7 @@ _**Thoughts:**_ Focused on optimization of programs submitted.
 
 ---
 
-### Day 001: July 12, Tuesday
+### Day 001: July 12, Wednesday
 
 **Today's Progress**: Completed Problems 05 to 08 from EulerProject.net.
 
