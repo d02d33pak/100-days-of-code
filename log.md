@@ -2,7 +2,7 @@
 
 
 
-### Day 0: July 11, Tuesday
+### Day 000: July 11, Tuesday
 
 **Today's Progress**: Completed Problem 01, 02, 03 and 04 from EulerProject.net.
 
@@ -10,7 +10,7 @@ _**Thoughts:**_ Focused on optimization of programs submitted.
 
 ---
 
-### Day 0: July 12, Tuesday
+### Day 001: July 12, Tuesday
 
 **Today's Progress**: Completed Problems 05 to 08 from EulerProject.net.
 
