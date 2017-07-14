@@ -2,7 +2,7 @@
 
 
 
-### Day 000: July 11, Tuesday, 2017
+### Day 00: July 11, Tuesday, 2017
 
 **Today's Progress**: Completed Problem 01, 02, 03 and 04 from EulerProject.net.
 
@@ -10,7 +10,7 @@ _**Thoughts:**_ Focused on optimization of programs submitted.
 
 ---
 
-### Day 001: July 12, Wednesday, 2017
+### Day 01: July 12, Wednesday, 2017
 
 **Today's Progress**: Completed Problems 05 to 08 from EulerProject.net.
 
@@ -19,7 +19,7 @@ _**Thoughts:**_ Solving the problem mathematically (ofcourse) and then coming up
 
 ---
 
-### Day 002: July 13, Thursday, 2017
+### Day 02: July 13, Thursday, 2017
 
 **Today's Progress**: Tried solving a problem from CodeChed (coded for around 1.5 hours).
 
@@ -28,7 +28,7 @@ _**Thoughts:**_ Sat down to solve this problem that I haven't been able to solve
 
 ---
 
-### Day 003: July 14, Friday, 2017
+### Day 03: July 14, Friday, 2017
 
 **Today's Progress**: Coded for CodeChef's July challenge.
 
