@@ -4,7 +4,7 @@
 
 ### Day 05: July 16, Sunday, 2017
 
-**Today's Progress**: Registered for HackerEarth's 'THNINK-A-THON'. Solved around 25 MCQs(Multiple Choice Questions).
+**Today's Progress**: Registered for HackerEarth's 'THINK-A-THON'. Solved around 25 MCQs(Multiple Choice Questions).
 
 _**Thoughts:**_ The questions(MCQs) were in Java, C/C++ and Perl. Even though I'm not much used to Java and Perl(not at all in case of Perl), I managed to solve most of the questions. Brushed-up some of my basics in C/C++.
 
