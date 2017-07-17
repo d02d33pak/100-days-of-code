@@ -1,5 +1,5 @@
 # 100 Days Of Code - Log :bookmark_tabs: :computer:
----
+
 
 
 ### Day 05: July 16, Sunday, 2017
