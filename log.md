@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log :bookmark_tabs: :computer:
 
 
+### Day 08: July 19, Wednesday, 2017
+
+**Today's Progress**: Created my first ever python script to srape ProjectEuler.net
+
+_**Thoughts:**_ After searching for a while I came up with a simple script that would save all the problem statements from projecteuler.net into a text file. And made an android application that would view this textfile.
+
+---
+
 ### Day 07: July 18, Tuesday, 2017
 
 **Today's Progress**: Practiced on CodeChef
