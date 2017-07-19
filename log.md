@@ -1,6 +1,21 @@
 # 100 Days Of Code - Log :bookmark_tabs: :computer:
 
 
+### Day 07: July 18, Tuesday, 2017
+
+**Today's Progress**: Practiced on CodeChef
+
+_**Thoughts:**_ Practice, practice and some more practice.
+
+---
+
+### Day 06: July 17, Monday, 2017
+
+**Today's Progress**: Practiced on CodeChef
+
+_**Thoughts:**_ Nothing really new to share. Still continues to make silly mistakes. Hopes to improve.
+
+---
 
 ### Day 05: July 16, Sunday, 2017
 
