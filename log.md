@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log :bookmark_tabs: :computer:
 
 
+### Day 09: July 20, Thursday, 2017
+
+**Today's Progress**: Practiced/Solved problems from CodeChef
+
+_**Thoughts:**_ Have started to feel confident while thinking/developing algo for such problems. Stepping up a level for the next problem. 
+
+---
+
 ### Day 08: July 19, Wednesday, 2017
 
 **Today's Progress**: Created my first ever python script to srape ProjectEuler.net
