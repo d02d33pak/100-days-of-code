@@ -3,9 +3,9 @@
 
 ### Day 18: July 29, Saturday, 2017
 
-**Today's Progress**: Competed in _*TCS CodeVita*_.
+**Today's Progress**: Looking at ways to optimize older code.
 
-_**Thoughts:**_ Had a 6 hours window to solve 6 problems (or as many as I could). I feel I need to work *_a lot more_* on my proramming skills. Was able to solve just one problem that too with output exceeding TIME LIMIT.
+_**Thoughts:**_ Learned my lesson, BRUTE-FORCE method doesn't work when it comes to Competitive Programming.
 
 ---
 
