@@ -1,6 +1,77 @@
 # 100 Days Of Code - Log :bookmark_tabs: :computer:
 
 
+### Day 18: July 29, Saturday, 2017
+
+**Today's Progress**: Competed in _*TCS CodeVita*_.
+
+_**Thoughts:**_ Had a 6 hours window to solve 6 problems (or as many as I could). I feel I need to work *_a lot more_* on my proramming skills. Was able to solve just one problem that too with output exceeding TIME LIMIT.
+
+---
+
+### Day 17: July 28, Friday, 2017
+
+**Today's Progress**: Competed in _*TCS CodeVita*_.
+
+_**Thoughts:**_ Had a 6 hours window to solve 6 problems (or as many as I could). I feel I need to work *_a lot more_* on my proramming skills. Was able to solve just one problem that too with output exceeding TIME LIMIT.
+
+---
+
+### Day 16: July 27, Thursday, 2017
+
+**Today's Progress**: Practiced/Solved problems from CodeChef
+
+_**Thoughts:**_ Still Practicing for _*TCS CodeVita*_.
+
+---
+
+### Day 15: July 26, Wednesday, 2017
+
+**Today's Progress**: Practiced/Solved problems from CodeChef
+
+_**Thoughts:**_ Practicing for _*TCS CodeVita*_.
+---
+
+### Day 14: July 25, Tuesday, 2017
+
+**Today's Progress**: Practiced/Solved problems from CodeChef
+
+_**Thoughts:**_ I have this coding competition *'TCS CodeVita'* coming up on 28th. So, I think I should practice as much as I can.
+
+---
+
+### Day 13: July 24, Monday, 2017
+
+**Today's Progress**: Integrated Google Sign-In into Evento
+
+_**Thoughts:**_ May look like a simple task to others but took me well over an hour to integrate it. I think I need to start taking Java tutorials.
+
+---
+
+### Day 12: July 23, Sunday, 2017
+
+**Today's Progress**: Practiced problems from ProjectEuler
+
+_**Thoughts:**_ Didn't have much time to code. So, re-did/optimised solution for previously solved problem.
+
+---
+
+### Day 11: July 22, Saturday, 2017
+
+**Today's Progress**: Started working on my final year project - Evento - android app for local events for college students.
+
+_**Thoughts:**_ Struggling a bit because Java isn't my language of preference. Lots of Googling.
+
+---
+
+### Day 10: July 21, Friday, 2017
+
+**Today's Progress**: Practiced/Solved problems from CodeChef
+
+_**Thoughts:**_ Stepping up was indeed a challenge. Could not solve the problem even after trying for so long. Need to learn to optimize code for faster exectuion. 
+
+---
+
 ### Day 09: July 20, Thursday, 2017
 
 **Today's Progress**: Practiced/Solved problems from CodeChef
@@ -11,7 +82,7 @@ _**Thoughts:**_ Have started to feel confident while thinking/developing algo fo
 
 ### Day 08: July 19, Wednesday, 2017
 
-**Today's Progress**: Created my first ever python script to srape ProjectEuler.net
+**Today's Progress**: Created my first ever python script to srape problem statements ProjectEuler.net
 
 _**Thoughts:**_ After searching for a while I came up with a simple script that would save all the problem statements from projecteuler.net into a text file. And made an android application that would view this textfile.
 
