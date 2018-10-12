@@ -1,4 +1,5 @@
 # I've joined the #100DaysOfCode Challenge.
+## [Didn't complete/ thinking of resuming soon]
 
 ## Contents
 * [Rules](rules.md)
